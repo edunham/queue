@@ -2,6 +2,7 @@
 
 PRs in-flight: 
 
+- linux slave swapfile https://github.com/servo/saltfs/pull/715
 - utf8 locale https://github.com/servo/saltfs/pull/714
 - log rotation https://github.com/servo/saltfs/pull/710
 - .taskcluster.yml https://github.com/servo/servo/pull/17580
@@ -20,8 +21,8 @@ PRs in-flight:
 
 Issues:
 
-- upgrade linux cross builders https://github.com/servo/saltfs/issues/711
-- :bangbang: servo-gecko-try deploy https://github.com/servo/saltfs/issues/619
+- ~~upgrade linux cross builders https://github.com/servo/saltfs/issues/711~~ -> https://github.com/servo/saltfs/pull/715
+- :bangbang: servo-gecko-try deploy https://github.com/servo/saltfs/issues/619 (requires https://github.com/servo/saltfs/pull/700)
 - crates.io SSL https://github.com/rust-lang/crates.io/issues/621
 - put build results on perfherder https://github.com/servo/servo/issues/13430
 - :bangbang: salt the letsencrypt renewal https://github.com/servo/saltfs/issues/423
