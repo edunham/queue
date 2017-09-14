@@ -1,5 +1,10 @@
 # queue
 
+Stuff that's not on GitHub: 
+
+* check with IT on WR laptop hosting
+* AWS account setup for MR
+
 PRs in-flight: 
 
 - linux slave swapfile https://github.com/servo/saltfs/pull/715
