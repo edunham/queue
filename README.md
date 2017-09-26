@@ -3,7 +3,7 @@
 Stuff that's not on GitHub: 
 
 * check with IT on WR laptop hosting
-* AWS account setup for MR -> blocked on IT, nagging daily
+* ~~AWS account setup for MR~~ got account, provisioning humans as requested
 
 PRs in-flight: 
 
