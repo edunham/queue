@@ -2,8 +2,9 @@
 
 Stuff that's not on GitHub: 
 
-* check with IT on WR laptop hosting
-* ~~AWS account setup for MR~~ got account, provisioning humans as requested
+* AFrame cloudfront
+* AFrame infra issue tracker-or-something
+* check with IT on WR laptop hosting (:bangbang: WR benchmark machine https://github.com/servo/saltfs/issues/614)
 
 PRs in-flight: 
 
@@ -31,7 +32,7 @@ Blocked last time I checked:
 
 Issues:
 
-- :bangbang: WR benchmark machine https://github.com/servo/saltfs/issues/614
+
 - ~~upgrade linux cross builders https://github.com/servo/saltfs/issues/711~~ -> https://github.com/servo/saltfs/pull/715
 - homu unboundlocalerror https://github.com/servo/homu/issues/67
 - :bangbang: servo-gecko-try deploy https://github.com/servo/saltfs/issues/619 (requires https://github.com/servo/saltfs/pull/700)
