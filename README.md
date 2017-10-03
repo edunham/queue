@@ -6,6 +6,10 @@ Stuff that's not on GitHub:
 * AFrame infra issue tracker-or-something
 * check with IT on WR laptop hosting (:bangbang: WR benchmark machine https://github.com/servo/saltfs/issues/614)
 
+Keep an eye on:
+
+- windows latency on https://github.com/servo/servo/pull/18732
+
 PRs in-flight: 
 
 - linux slave swapfile https://github.com/servo/saltfs/pull/715
