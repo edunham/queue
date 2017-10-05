@@ -8,16 +8,15 @@ Stuff that's not on GitHub:
 
 Keep an eye on:
 
-- windows latency on https://github.com/servo/servo/pull/18732
-
-PRs in-flight: 
-
-- linux slave swapfile https://github.com/servo/saltfs/pull/715
+PRs ready for review/merge: 
 - utf8 locale https://github.com/servo/saltfs/pull/714
+
+PRs needing changes: 
+- linux slave swapfile https://github.com/servo/saltfs/pull/715
+- user accounts https://github.com/servo/saltfs/pull/628
 - log rotation https://github.com/servo/saltfs/pull/710
 - .taskcluster.yml https://github.com/servo/servo/pull/17580
 - servo-gecko-try minion https://github.com/servo/saltfs/pull/700
-- user accounts https://github.com/servo/saltfs/pull/628
 - doc locations https://github.com/rust-lang/rust-buildbot/pull/155
 - python version https://github.com/servo/saltfs/pull/542
 - unattended-upgrades https://github.com/servo/saltfs/pull/276 (https://github.com/servo/saltfs/issues/275)
@@ -29,14 +28,10 @@ PRs in-flight:
 - iptables https://github.com/servo/saltfs/pull/108
 - highfive tests https://github.com/nrc/highfive/pull/58
 
-Blocked last time I checked: 
-
-- update servo builders https://github.com/servo/saltfs/issues/462
-
 
 Issues:
 
-
+- update servo builders https://github.com/servo/saltfs/issues/462
 - ~~upgrade linux cross builders https://github.com/servo/saltfs/issues/711~~ -> https://github.com/servo/saltfs/pull/715
 - homu unboundlocalerror https://github.com/servo/homu/issues/67
 - :bangbang: servo-gecko-try deploy https://github.com/servo/saltfs/issues/619 (requires https://github.com/servo/saltfs/pull/700)
