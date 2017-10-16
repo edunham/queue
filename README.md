@@ -9,6 +9,7 @@ Stuff that's not on GitHub:
 blocked on external: 
 - mac5,6,8,9 upgrade in flight -- https://github.com/servo/saltfs/issues/731#issuecomment-337006726
 * bug filed for WR laptop hosting RITM0057316 in servicenow (:bangbang: WR benchmark machine https://github.com/servo/saltfs/issues/614)
+- https://github.com/servo/saltfs/issues/734 may have hit a salt bug for newer OSXs, waiting on salt folks to confirm/deny
 
 Keep an eye on:
 
