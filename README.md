@@ -4,7 +4,11 @@ Stuff that's not on GitHub:
 
 * AFrame cloudfront
 * AFrame infra issue tracker-or-something
-* check with IT on WR laptop hosting (:bangbang: WR benchmark machine https://github.com/servo/saltfs/issues/614)
+
+
+blocked on external: 
+- mac5,6,8,9 upgrade in flight -- https://github.com/servo/saltfs/issues/731#issuecomment-337006726
+* bug filed for WR laptop hosting RITM0057316 in servicenow (:bangbang: WR benchmark machine https://github.com/servo/saltfs/issues/614)
 
 Keep an eye on:
 
