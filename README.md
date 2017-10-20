@@ -1,10 +1,10 @@
 # queue
 
-Stuff that's not on GitHub: 
+Stuff that's not publicly on GitHub: 
 
 * AFrame cloudfront
 * AFrame infra issue tracker-or-something
-
+* Netlify: Bugzilla https://bugzilla.mozilla.org/show_bug.cgi?id=1410453, remember to update admin docs @ link in ticket when done
 
 blocked on external: 
 - mac5,6,8,9 upgrade in flight -- https://github.com/servo/saltfs/issues/731#issuecomment-337006726 & macstadium ticket
