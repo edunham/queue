@@ -5,11 +5,11 @@ Stuff that's not publicly on GitHub:
 * AFrame cloudfront
 * AFrame infra issue tracker-or-something
 * Netlify: Bugzilla https://bugzilla.mozilla.org/show_bug.cgi?id=1410453, remember to update admin docs @ link in ticket when done
+* http://trac.buildbot.net/wiki/RunningBuildbotOnWindows for unbreaking windows builders
 
 blocked on external: 
-* bug filed for WR laptop hosting RITM0057316 in servicenow (:bangbang: WR benchmark machine https://github.com/servo/saltfs/issues/614) https://bugzilla.mozilla.org/show_bug.cgi?id=1409205
+* ~~bug filed for WR laptop hosting RITM0057316 in servicenow (:bangbang: WR benchmark machine https://github.com/servo/saltfs/issues/614) https://bugzilla.mozilla.org/show_bug.cgi?id=1409205~~ well we're now in ServiceNow REQ0052233
 - https://github.com/servo/saltfs/issues/734 may have hit a salt bug for newer OSXs, Salt folks confirm it's a Salt bug w/ labels on https://github.com/saltstack/salt/issues/44130
-- need Lars's help on window builder issues
 
 Keep an eye on:
 
