@@ -8,7 +8,7 @@ Stuff that's not publicly on GitHub:
 * http://trac.buildbot.net/wiki/RunningBuildbotOnWindows for unbreaking windows builders
 
 blocked on external: 
-* ~~bug filed for WR laptop hosting RITM0057316 in servicenow (:bangbang: WR benchmark machine https://github.com/servo/saltfs/issues/614) https://bugzilla.mozilla.org/show_bug.cgi?id=1409205~~ well we're now in ServiceNow REQ0052233
+* ~~bug filed for WR laptop hosting RITM0057316 in servicenow (:bangbang: WR benchmark machine https://github.com/servo/saltfs/issues/614) https://bugzilla.mozilla.org/show_bug.cgi?id=1409205~~ well we're now in ServiceNow REQ0052233, they're out for purchasing and the bug will update when we have an ETA
 - https://github.com/servo/saltfs/issues/734 may have hit a salt bug for newer OSXs, Salt folks confirm it's a Salt bug w/ labels on https://github.com/saltstack/salt/issues/44130
 
 PRs in flight: 
