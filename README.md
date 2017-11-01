@@ -44,7 +44,6 @@ Issues:
 - crates.io SSL https://github.com/rust-lang/crates.io/issues/621
 - put build results on perfherder https://github.com/servo/servo/issues/13430
 - :bangbang: salt the letsencrypt renewal https://github.com/servo/saltfs/issues/423
-- mac6 breakage https://github.com/servo/servo/issues/18374
 - Buildbot git breakage https://github.com/servo/servo/issues/18338
 - mac7 git errors https://github.com/servo/servo/issues/18228
 - Travis secret refresh https://github.com/servo/saltfs/issues/664
