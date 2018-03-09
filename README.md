@@ -1,5 +1,30 @@
 # queue
 
+Email/IRC: 
+
+* Servo Infra accts for password manager
+- [x] Lars
+- [ ] Aneesh -- Blocked on Moz
+- [x] Manish
+- [ ] Josh
+- [ ] Simon
+- [ ] Nox
+- [ ] Jack -- Blocked on Moz
+
+Bugzilla: 
+
+* Netlify saga https://bugzilla.mozilla.org/show_bug.cgi?id=1410453
+* Games repo tasks outlined in https://bugzilla.mozilla.org/show_bug.cgi?id=1438488#c11
+* Wrap Vr.m.o stuff on https://bugzilla.mozilla.org/show_bug.cgi?id=1410517, after naming discussion via email
+* Travis/Rust RRA https://bugzilla.mozilla.org/show_bug.cgi?id=1389648
+* Daala TC https://bugzilla.mozilla.org/show_bug.cgi?id=1261110
+
+* MR password manager -- transfer notes from Google Docs
+
+
+
+### From awhile back:
+
 Stuff that's not publicly on GitHub: 
 
 * AFrame cloudfront
