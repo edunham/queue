@@ -3,13 +3,16 @@
 Email/IRC: 
 
 * Servo Infra accts for password manager
-- [x] Lars
-- [ ] Aneesh -- Blocked on Moz
-- [x] Manish
-- [ ] Josh
-- [ ] Simon
-- [ ] Nox
-- [ ] Jack -- Blocked on Moz
+  - [x] Lars
+  - [ ] Aneesh -- Blocked on Moz
+  - [x] Manish
+  - [ ] Josh
+  - [ ] Simon
+  - [ ] Nox
+  - [ ] Jack -- Blocked on Moz
+
+* Gathering input in "Naming preferences for MixedReality properties?" thread
+
 
 Bugzilla: 
 
