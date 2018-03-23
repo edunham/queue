@@ -4,12 +4,11 @@ Email/IRC:
 
 * Servo Infra accts for password manager
   - [x] Lars
-  - [ ] Aneesh -- Blocked on Moz
+  - [ ] Aneesh -- guest acct requested by email from servicedesk
   - [x] Manish
-  - [ ] Josh
-  - [ ] Simon
+  - [x] Josh
   - [ ] Nox
-  - [ ] Jack -- Blocked on Moz
+  - [x] Jack
 
 * Gathering input in "Naming preferences for MixedReality properties?" thread
 
