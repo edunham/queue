@@ -15,9 +15,9 @@ Email/IRC:
 
 Bugzilla: 
 
+* https://bugzilla.mozilla.org/show_bug.cgi?id=1449017 blog.mr.m.o
 * Netlify saga https://bugzilla.mozilla.org/show_bug.cgi?id=1410453
 * Games repo tasks outlined in https://bugzilla.mozilla.org/show_bug.cgi?id=1438488#c11
-* Wrap Vr.m.o stuff on https://bugzilla.mozilla.org/show_bug.cgi?id=1410517, after naming discussion via email
 * Travis/Rust RRA https://bugzilla.mozilla.org/show_bug.cgi?id=1389648
 * Daala TC https://bugzilla.mozilla.org/show_bug.cgi?id=1261110
 
